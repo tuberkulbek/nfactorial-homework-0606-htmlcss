@@ -41,4 +41,112 @@ p {
     background-color: blue;
 }
 
+.empty3 {
+    display: flex;
+    flex: 1 1;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+
+.blue3 {
+    width: 80px;
+    background-color: blue;
+}
+
+.red3 {
+    width: 80px;
+    background-color: red;
+}
+
+.red4 {
+    display: flex;
+    flex: 1;
+    flex-direction: row-reverse;
+    background-color: red;
+}
+
+.blue4 {
+    width: 80px;
+    background-color: blue;
+}
+
+.empty5 {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+}
+
+.red5 {
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    margin: 10px;
+}
+
+.red6 {
+    display: flex;
+    flex: 1;
+    background-color: red;
+    justify-content: center;
+}
+
+.blue6 {
+    width: 80px;
+    background-color: blue;
+}
+
+.empty7 {
+    display: flex;
+    flex: 1 1;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+
+.blue-container {
+    display: flex;
+    flex: 1 1;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.blue7 {
+    height: 33%;
+    background-color: blue;
+}
+
+.red7 {
+    width: 80px;
+    background-color: red;
+}
+
+.empty8 {
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+    justify-content: space-between;
+}
+
+.yellow8 {
+    width: 80px;
+    background-color: yellow;
+}
+
+.empty9 {
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+    justify-content: space-between;
+}
+
+.yellow9 {
+    width: 100%;
+    background-color: yellow;
+}
+
+.yellow9-1 {
+    width: 100%;
+    margin: 0 20px;
+    background-color: yellow;
+}
+
 /* TODO: Add CSS for the rest of your solution below */
